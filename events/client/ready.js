@@ -136,6 +136,6 @@ bot.on("guildMemberRemove", async member => {
     }
 });
 
-    bot.user.setActivity(`*help in ${bot.guilds.size} Servers!`, {type: "WATCHING"})
-    bot.user.setStatus("online")
+    bot.user.setActivity(`Akiz || *help`, {type: "WATCHING"})
+    bot.user.setStatus("idle")
 };
