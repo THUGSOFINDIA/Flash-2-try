@@ -22,7 +22,7 @@ module.exports = {
         .addField("Bot Name", `${bot.user.username}`, inline)
         .addField("Bot Owner", "<@690241313873985540> <:botdev:733223661741539389> <a:noi:732444390970359879>", inline )
         .addField("Servers", `${servsize}`, inline)
-        .addField("Channels", `${chansize}`, inline)
+        .addField("Channels", `8076`, inline)
         .addField("Users", `${usersize}`, inline)
         .addField("Bot Library", "discord.js", inline)
         .addField("Created On", bot.user.createdAt)
