@@ -20,7 +20,7 @@ module.exports = {
         const embed = new RichEmbed()
             .setColor(green)
             .setAuthor(`${message.guild.me.displayName} Help`, message.guild.iconURL)
-            .setDescription("To View The Commands Of Each Group Use:\n\`\`\`.help <group>\`\`\`")
+            .setDescription("To View The Commands Of Each Group Use:\n\`\`\`*help <group>\`\`\`")
             .setTimestamp()
             .addField("<:members7:732429445662769213> **ContactUs:**", "3 Commands", true)//done
             .addField("<:custom7:732429480777220096> **Games:**", "8 Commands", true)//done
