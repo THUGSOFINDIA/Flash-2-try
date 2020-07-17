@@ -30,7 +30,6 @@ module.exports = {
             .addField("<a:y1:732261987903471649> **Moderation:**", "15 Commands", true)
             .addField("<:18:732429489925259364> **NSFW:**", "8 Commands", true)
             .addField("<a:noi:732444390970359879> **Owner:**", "4 Commands", true)
-            .addField("<:brawlt:732429495277060236> **Advertise:**", "1 Command", true)
             .addField("<a:money:732257497951502420> **Economy**", "17 Commands", true)
             .addField("<a:gs7:732422732515639398> **Search**", "6 Commands", true)
             .setFooter("Akiz | *help")
